@@ -1,5 +1,7 @@
 # Javascript Work
 
+There are totally 9 Javascript work I wrote, as you can see below.
+
 # Make a Person
 
 getFirstName()
@@ -16,9 +18,13 @@ Run the methods to see the expected output.
 Convert number to Roman expression.
 
 Examples:
+
 4: IV
+
 16: XVI
+
 649: DCXLIX
+
 3999: MMMCMXCIX
 
 # Check Phone Number
@@ -27,27 +33,46 @@ Check the US phone number is valid or not.
 
 Valid examples:
 
-555-555-5555 \n
+555-555-5555
+
 (555)555-5555
+
 (555) 555-5555
+
 555 555 5555
+
 5555555555
+
 1 555 555 5555
 
 Invalid examples:
+
 1 555)555-5555
+
 55555555
+
 (6505552368)
+
 2 (757) 622-7382
+
 0 (757) 622-7382
+
 -1 (757) 622-7382
+
 2 757 622-7382
+
 10 (757) 622-7382
+
 27576227382
+
 (275)76227382
+
 2(757)62273
+
 2(757)622-7382
+
 555)-555-5555
+
 (555-555-5555
 
 # Exact Change
