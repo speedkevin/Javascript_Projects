@@ -21,13 +21,13 @@ Examples:
 649: DCXLIX
 3999: MMMCMXCIX
 
-3. Check Phone Number
+# Check Phone Number
 
 Check the US phone number is valid or not.
 
 Valid examples:
 
-555-555-5555
+555-555-5555 \n
 (555)555-5555
 (555) 555-5555
 555 555 5555
