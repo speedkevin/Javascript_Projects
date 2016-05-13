@@ -1,6 +1,7 @@
 # Javascript Work
 
 There are totally 9 Javascript work I wrote, as you can see below. Please open index.html to see expected result.
+[index.html](https://github.com/speedkevin/javascript_work/blob/master/index.html)
 
 ![alt tag](https://github.com/speedkevin/javascript_work/blob/master/1.png)
 ![alt tag](https://github.com/speedkevin/javascript_work/blob/master/2.png)
