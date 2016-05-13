@@ -1,6 +1,6 @@
 # Javascript Work
 
-There are totally 9 Javascript work I wrote, as you can see below. 
+There are total 9 Javascript work I wrote by myself, as you can see below. 
 
 Please open index.html to see expected result.
 
