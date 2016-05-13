@@ -1,0 +1,134 @@
+<html>
+    <head>
+       <!-- CSS -->
+       <link rel="stylesheet" type="text/css" href="mycss.css">
+    </head>
+    <body>
+        <!-- Person -->
+        <h1> Person Setter / Getter </h1>
+        First name: <input id="firstname" type="text" name="FirstName"><br>
+        Last name: <input id="lastname" type="text" name="LastName"><br>
+        <button id='personBtn'> Show Person </button>
+        <h2 id='person'> Result </h2>
+
+        <!-- Convert to Roman -->
+        <h1> Number Roman Converter </h1>
+        Number: <input id="number" type="text" name="number"><br>
+        <button id='numBtn'> Show Roman </button>
+        <h2 id='roman'> Result </h2>
+
+        <!-- Check Phone Number -->
+        <h1> Check Phone Number </h1>
+        <p>
+          Valid Example: <br><br>
+          555-555-5555 <br>
+          (555)555-5555 <br>
+          (555) 555-5555 <br>
+          555 555 5555 <br>
+          5555555555 <br>
+          1 555 555 5555 <br>
+        </P>
+        Telephone Number: <input id="telNumber" type="text" name="number"><br>
+        <button id='telNumBtn'> Check </button>
+        <h2 id='telNum'> Result </h2>
+
+        <!-- Exact Change -->
+        <h1> Exact Change </h1>
+        <table style="width:100%">
+          <tr>
+            <td>DOLLARS</td>
+            <td>PENNY</td>
+            <td>NICKEL</td>
+            <td>DIME</td>
+            <td>QUARTER</td>
+            <td>ONE</td>
+            <td>FIVE</td>
+            <td>TEN</td>
+            <td>TWENTY</td>
+            <td>ONE HUNDRED</td>
+          </tr>
+          <tr>
+            <td>BALANCE</td>
+            <td>1.01</td>
+            <td>2.05</td>
+            <td>3.10</td>
+            <td>4.25</td>
+            <td>90.00</td>
+            <td>55.00</td>
+            <td>20.00</td>
+            <td>60.00</td>
+            <td>100.00</td>
+          </tr>
+        </table>
+        Price: <input id="price" type="text" name="price"><br>
+        Cash: <input id="cash" type="text" name="cash"><br>
+        <button id='changeBtn'> Show Change </button>
+        <h2 id='changeResult'> Result </h2>
+
+        <!-- More -->
+        <h1> Open console, see more Javascript work. Please see sourse code on Github </h1>
+        <h3> Symmetric Difference </h3>
+        <p id = "blue"> Input: </p>
+        <p> sym([3, 3, 3, 2, 5], [2, 1, 5, 7], [3, 4, 6, 6], [1, 2, 3], [5, 3, 9, 8], [1]) </p>
+        <p id = "blue"> Output: </p>
+        <p> [7, 4, 6, 2, 5, 9, 8, 1] </p>
+
+        <h3> Inventory Update </h3>
+        <p id = "blue"> Input: </p> <p>
+        var curInv = [
+            [21, "Bowling Ball"],
+            [2, "Dirty Sock"],
+            [1, "Hair Pin"],
+            [5, "Microphone"]
+        ]; <br><br>
+
+        var newInv = [
+            [2, "Hair Pin"],
+            [3, "Half-Eaten Apple"],
+            [67, "Bowling Ball"],
+            [7, "Toothpaste"]
+        ]; <br><br>
+        updateInventory(curInv, newInv); </p>
+        <p id = "blue"> Output: </p>
+        <p> [[88,"Bowling Ball"],[2,"Dirty Sock"],[3,"Hair Pin"],[3,"Half-Eaten Apple"],[5,"Microphone"],[7,"Toothpaste"]] </p>
+
+        <h3> Friendly Date Ranges </h3>
+        <p id = "blue"> Input: </p>
+        <p> makeFriendlyDates(["2016-12-01", "2017-02-03"]); </p>
+        <p id = "blue"> Output: </p>
+        <p> ["December 1st","February 3rd"] </p>
+
+        <h3> Map the Debris </h3>
+        <p id = "blue"> Input: </p>
+        <p> orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]); </p>
+        <p id = "blue"> Output: </p>
+        <p> [{"name":"sputnik","orbitalPeriod":86400}] </p>
+
+        <h3> Pairwise </h3>
+        <p id = "blue"> Input: </p>
+        <p> pairwise([0, 0, 0, 0, 1, 1], 1); </p>
+        <p id = "blue"> Output: </p>
+        <p> 10 </p>
+
+        <h3> Pairwise </h3>
+        <p id = "blue"> Input: </p>
+        <p> pairwise([0, 0, 0, 0, 1, 1], 1); </p>
+        <p id = "blue"> Output: </p>
+        <p> 10 </p>
+
+        <!-- Javascript -->
+        <script src="js/jquery-1.11.2.js"></script>
+        <script src="js/Person.js"></script>
+        <script src="js/convert_to_roman.js"></script>
+        <script src="js/tel_check.js"></script>
+        <script src="js/change.js"></script>
+        <!-- More Javascript -->
+        <script src="js/symmetric_difference.js"></script>
+        <script src="js/inventory_update.js"></script>
+        <script src="js/friendly_date_ranges.js"></script>
+        <script src="js/map_the_debris.js"></script>
+        <script src="js/pairwise.js"></script>
+
+        <script src="js/app.js"></script>
+    </body>
+</html>

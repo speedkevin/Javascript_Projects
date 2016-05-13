@@ -1,0 +1,16 @@
+p {
+  text-align: center;
+}
+h1 {
+  color: red;
+}
+h2 {
+  text-align: right;
+}
+h3 {
+  color: blue;
+}
+#blue {
+  text-align: left;
+  color: blue;
+}
