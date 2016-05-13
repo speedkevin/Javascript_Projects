@@ -1,6 +1,6 @@
 # Javascript Work
 
-1. Make a Person
+# Make a Person
 
 getFirstName()
 getLastName()
@@ -11,7 +11,7 @@ setFullName(firstAndLast)
 
 Run the methods to see the expected output.
 
-2. Number Roman Converter
+# Number Roman Converter
 
 Convert number to Roman expression.
 
@@ -50,7 +50,7 @@ Invalid examples:
 555)-555-5555
 (555-555-5555
 
-4. Exact Change
+# Exact Change
 
 A cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument.
 
@@ -65,7 +65,7 @@ then the change woule be:
 
 PENNY 0.04 || DIME 0.2 || QUARTER 0.5 || ONE 1 || FIVE 15 || TEN 20 || TWENTY 60
 
-5. Symmetric Difference
+# Symmetric Difference
 
 Create a function that takes two or more arrays and returns an array of the symmetric difference (△ or ⊕) of the provided arrays.
 
@@ -75,7 +75,7 @@ sym([3, 3, 3, 2, 5], [2, 1, 5, 7], [3, 4, 6, 6], [1, 2, 3], [5, 3, 9, 8], [1])
 Output example:
 [7, 4, 6, 2, 5, 9, 8, 1]
 
-6. Inventory Update
+# Inventory Update
 
 Input example:
 var curInv = [ [21, "Bowling Ball"], [2, "Dirty Sock"], [1, "Hair Pin"], [5, "Microphone"] ]; 
@@ -103,7 +103,7 @@ makeFriendlyDates(["2016-12-01", "2017-02-03"]);
 Output example:
 ["December 1st","February 3rd"]
 
-8. Map the Debris
+# Map the Debris
 
 Return a new array that transforms the element's average altitude into their orbital periods.
 
@@ -119,7 +119,7 @@ orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]);
 Output example:
 [{"name":"sputnik","orbitalPeriod":86400}]
 
-9. Pairwise
+# Pairwise
 
 Given an array arr, find element pairs whose sum equal the second argument arg and return the sum of their indices.
 
