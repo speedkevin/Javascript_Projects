@@ -8,10 +8,12 @@ There are totally 9 Javascript work I wrote, as you can see below. Please open i
 ![alt tag](https://github.com/speedkevin/javascript_work/blob/master/4.png)
 
 # Make a Person
+[Person.js](https://github.com/speedkevin/javascript_work/blob/master/js/Person.js)
 
 Please open index.html to see expected result.
 
 # Number Roman Converter
+[convert_to_roman.js](https://github.com/speedkevin/javascript_work/blob/master/js/convert_to_roman.js)
 
 Convert number to Roman expression.
 
@@ -26,6 +28,7 @@ Examples:
 3999: MMMCMXCIX
 
 # Check Phone Number
+[tel_check.js](https://github.com/speedkevin/javascript_work/blob/master/js/tel_check.js)
 
 Check the US phone number is valid or not.
 
@@ -76,6 +79,7 @@ Check the US phone number is valid or not.
 (555-555-5555
 
 # Exact Change
+[change.js](https://github.com/speedkevin/javascript_work/blob/master/js/change.js)
 
 A cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument.
 
@@ -88,6 +92,7 @@ then the change woule be:
 PENNY 0.04 || DIME 0.2 || QUARTER 0.5 || ONE 1 || FIVE 15 || TEN 20 || TWENTY 60
 
 # Symmetric Difference
+[symmetric_difference.js](https://github.com/speedkevin/javascript_work/blob/master/js/symmetric_difference.js)
 
 Create a function that takes two or more arrays and returns an array of the symmetric difference (△ or ⊕) of the provided arrays.
 
@@ -100,6 +105,7 @@ sym([3, 3, 3, 2, 5], [2, 1, 5, 7], [3, 4, 6, 6], [1, 2, 3], [5, 3, 9, 8], [1])
 [7, 4, 6, 2, 5, 9, 8, 1]
 
 # Inventory Update
+[inventory_update.js](https://github.com/speedkevin/javascript_work/blob/master/js/inventory_update.js)
 
 * Input example:
 
@@ -114,6 +120,7 @@ updateInventory(curInv, newInv);
 [[88,"Bowling Ball"],[2,"Dirty Sock"],[3,"Hair Pin"],[3,"Half-Eaten Apple"],[5,"Microphone"],[7,"Toothpaste"]]
 
 # Friendly Date Ranges
+[friendly_date_ranges.js](https://github.com/speedkevin/javascript_work/blob/master/js/friendly_date_ranges.js)
 
 Convert a date range consisting of two dates formatted as YYYY-MM-DD into a more readable format.
 
@@ -134,6 +141,7 @@ makeFriendlyDates(["2016-12-01", "2017-02-03"]);
 ["December 1st","February 3rd"]
 
 # Map the Debris
+[map_the_debris.js](https://github.com/speedkevin/javascript_work/blob/master/js/map_the_debris.js)
 
 Return a new array that transforms the element's average altitude into their orbital periods.
 
@@ -152,6 +160,7 @@ orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]);
 [{"name":"sputnik","orbitalPeriod":86400}]
 
 # Pairwise
+[pairwise.js](https://github.com/speedkevin/javascript_work/blob/master/js/pairwise.js)
 
 Given an array arr, find element pairs whose sum equal the second argument arg and return the sum of their indices.
 
