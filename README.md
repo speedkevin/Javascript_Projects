@@ -31,7 +31,8 @@ Examples:
 
 Check the US phone number is valid or not.
 
-Valid examples:
+
+* Valid examples:
 
 555-555-5555
 
@@ -45,7 +46,8 @@ Valid examples:
 
 1 555 555 5555
 
-Invalid examples:
+
+* Invalid examples:
 
 1 555)555-5555
 
