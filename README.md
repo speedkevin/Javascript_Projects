@@ -1,17 +1,10 @@
 # Javascript Work
 
-There are totally 9 Javascript work I wrote, as you can see below.
+There are totally 9 Javascript work I wrote, as you can see below. Please open index.html to see expected result.
 
 # Make a Person
 
-getFirstName()
-getLastName()
-getFullName()
-setFirstName(first)
-setLastName(last)
-setFullName(firstAndLast)
-
-Run the methods to see the expected output.
+Please open index.html to see expected result.
 
 # Number Roman Converter
 
