@@ -112,7 +112,7 @@ updateInventory(curInv, newInv);
 Output example:
 [[88,"Bowling Ball"],[2,"Dirty Sock"],[3,"Hair Pin"],[3,"Half-Eaten Apple"],[5,"Microphone"],[7,"Toothpaste"]]
 
-7. Friendly Date Ranges
+# Friendly Date Ranges
 
 Convert a date range consisting of two dates formatted as YYYY-MM-DD into a more readable format.
 
