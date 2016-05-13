@@ -2,6 +2,11 @@
 
 There are totally 9 Javascript work I wrote, as you can see below. Please open index.html to see expected result.
 
+![alt tag](https://github.com/speedkevin/javascript_work/blob/master/1.png)
+![alt tag](https://github.com/speedkevin/javascript_work/blob/master/2.png)
+![alt tag](https://github.com/speedkevin/javascript_work/blob/master/3.png)
+![alt tag](https://github.com/speedkevin/javascript_work/blob/master/4.png)
+
 # Make a Person
 
 Please open index.html to see expected result.
